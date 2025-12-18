@@ -2,7 +2,7 @@
 Contributors: Vee W.
 Tags: blog, two-columns, right-sidebar
 Requires at least: 5.0
-Tested up to: 6.9
+Tested up to: 7.0
 Stable tag: 0.1
 License: MIT
 License URI: https://opensource.org/licenses/MIT
@@ -19,7 +19,7 @@ This is the classic theme.
 
 This file is required by Theme Check.
 
-Tested up to PHP 8.4.
+Tested up to PHP 8.5.
 
 == Changelog ==
 = 0.1 =
