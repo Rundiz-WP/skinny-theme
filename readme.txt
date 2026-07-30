@@ -1,4 +1,4 @@
-=== Skinny ===
+=== Skinny Theme ===
 Contributors: Vee W.
 Tags: blog, two-columns, right-sidebar
 Requires at least: 5.0
